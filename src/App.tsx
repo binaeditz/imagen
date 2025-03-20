@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import axios from "axios";
 
-const FIREWORKS_API_KEY = "your_fireworks_api_key";
+const FIREWORKS_API_KEY = "fw_3ZT2yyqt4zk2443nZgYit7M7";
 const API_URL = "https://api.fireworks.ai/v1/generate";
 
 export default function Imagen() {
